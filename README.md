@@ -34,7 +34,7 @@ The repository is structured to facilitate implementation, experimentation, and 
 Below is an example Figure of a face mesh plot showcasing **level sets** derived from the **geodesic potential method**.
 
 
-![Level Sets of Geodesic Potentials](visuals-and-graphs/geodesicpotentials-level-set-view-2)
+![Level Sets of Geodesic Potentials](visuals-and-graphs/geodesicpotentials-level-set-view-2.png)
 
 
 
