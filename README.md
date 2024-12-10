@@ -61,17 +61,21 @@ Below is an example Figure of a face mesh plot showcasing **level sets** derived
 
 ## Goals
 
-1. **Enhance Descriptor Stability**:  
+1. **Adding arc-length reparametrization**:
+   Arc-length reparametrization allows us to more easily interpolate and parametrize our curve with B-Splines polynomials which can aid in process making these level sets of curves even more equivariant/pseudo-invariant
+   
+    
+3. **Enhance Descriptor Stability**:  
    Improve the geodesic potentials method for increased continuity thus making them more stable and close for almost identical meshes in the euclidean space.
 
-2. **Improving our Decriptors robustness and reliability**
-   Making these invariant descriptors even more robust against noise and slight deformations and also more effective especially when faced with quantization and computational errors or noise.
+4. **Improving our Decriptors robustness and reliability**
+   Making these pseudo-invariant descriptors even more robust against noise and slight deformations and also more effective especially when faced with quantization and computational errors or noise.
 
 
-3. **Expand Descriptor Utility**:  
+5. **Expand Descriptor Utility**:  
    Develop descriptors capable of handling both sentiment analysis and other tasks like pattern recognition, forensic applications, animation and CGI and medical imaging.
 
-4. **Incorporate 4D Analysis**:  
+6. **Incorporate 4D Analysis**:  
    Extend the methodology to 4D meshes, integrating the time dimension for dynamic analysis.
 
 ---
