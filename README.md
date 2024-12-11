@@ -40,8 +40,8 @@ Below is an example Figure of a face mesh plot showcasing **level sets** derived
 
 ### Description:
 
-- **Geodesic Potential Levels**:  
-  The plot visualizes how the sum of geodesic distances to three fixed points generates concentric level curves. These curves are iterated by incrementing \( \mu \), forming a robust global representation of the mesh surface.
+- **Geodesic Potentials Level set**:  
+  The plot visualizes how the sum of geodesic distances to three fixed points generates concentric level curves. These curves are iterated by incrementing \( \mu \), forming a robust QUASI-global representation of the mesh surface that is **rich in information**.
 
 - **Utility**:  
   These level sets capture intrinsic shape information of the mesh, invariant to external transformations like scaling or rotation. As such, they form the foundation for computing stable global descriptors.
